@@ -144,4 +144,4 @@ Build a mini security environment including:
 ---
 
 
-> 💬 *"Learn Cyber Security the Real-World Way — Practice, Attack, Defend, and Secure with BinnBash!"*
+> 💬 *"Learn Cyber Security the Real-World Way — Practice, Attack, Defend, and Secure with eshwari"*
